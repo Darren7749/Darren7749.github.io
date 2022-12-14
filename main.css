@@ -4,8 +4,8 @@
 }
 
 .product_table th {
-    background-color: rgb(22, 25, 188);
-    color: rgb(158, 198, 156);
+    background-color: rgb(147, 25, 25);
+    color: rgb(155, 207, 152);
     font-weight: bolder;
 }
 
@@ -15,7 +15,7 @@
 }
 
 .product_table tfoot {
-    background-color: rgb(237, 191, 148);
+    background-color: rgb(225, 195, 165);
 }
 
 .text-center { text-align: center; }
@@ -24,4 +24,8 @@
 .center {
     margin-left: auto;
     margin-right: auto;
-  }
+}
+
+.icon {
+    width: 1em;
+}
